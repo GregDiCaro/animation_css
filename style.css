@@ -19,7 +19,7 @@ a {
   justify-content: center;
   align-items: center;
   border: 3px solid #000;
-  transition: 2s;
+  transition: 3s;
 }
 a:hover {
   background-color: rgb(146, 168, 230);
